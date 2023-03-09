@@ -1,25 +1,62 @@
 {
-  "posts": [
-{
-  "discountGroupId": "T-CAT",
-  "discounts": [
-    {
-      "minimumQuantity": 0,
-      "discountPercentage": 0
+    "DiscountGroupCreated": {
+        "discountGroupId": "T-CAT",
+        "discounts": [
+            {
+            "minimumQuantity": 5,
+            "discountPercentage": 5
+            },
+            {
+            "minimumQuantity": 10,
+            "discountPercentage": 10
+            },
+            {
+            "minimumQuantity": 15,
+            "discountPercentage": 15
+            },
+            {
+            "minimumQuantity": 20,
+            "discountPercentage": 20
+            }
+        ]
     },
-    {
-      "minimumQuantity": 0,
-      "discountPercentage": 0
+    "DiscountGroupUpdated": {
+        "discountGroupId": "T-CAT",
+        "discounts": [
+          {
+            "minimumQuantity": 0,
+            "discountPercentage": 0
+          },
+          {
+            "minimumQuantity": 0,
+            "discountPercentage": 0
+          },
+          {
+            "minimumQuantity": 0,
+            "discountPercentage": 0
+          },
+          {
+            "minimumQuantity": 0,
+            "discountPercentage": 0
+          }
+        ]
     },
-    {
-      "minimumQuantity": 0,
-      "discountPercentage": 0
+    "QuoteCreated": {
+        "erpQuoteNumber": "Q2307562",
+        "companyId": "someCompanyId",
+        "contactId": "someContactId",
+        "total": 1000000,
+        "dateIssued": "2022-04-29",
+        "expirationDate": "2022-07-29",
+        "pdfUrl": "https://google.com"
     },
-    {
-      "minimumQuantity": 0,
-      "discountPercentage": 0
+    "QuoteUpdated": {
+        "erpQuoteNumber": "Q2307562",
+        "companyId": "someCompanyId",
+        "contactId": "someContactId",
+        "total": 2000000,
+        "dateIssued": "2021-03-25",
+        "expirationDate": "2022-10-15",
+        "pdfUrl": "https://yandex.com"
     }
-  ]
-}
-]
 }
