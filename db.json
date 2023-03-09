@@ -1,0 +1,21 @@
+{
+  "discountGroupId": "T-CAT",
+  "discounts": [
+    {
+      "minimumQuantity": 0,
+      "discountPercentage": 0
+    },
+    {
+      "minimumQuantity": 0,
+      "discountPercentage": 0
+    },
+    {
+      "minimumQuantity": 0,
+      "discountPercentage": 0
+    },
+    {
+      "minimumQuantity": 0,
+      "discountPercentage": 0
+    }
+  ]
+}
