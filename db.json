@@ -24,20 +24,20 @@
         "discountGroupId": "T-CAT",
         "discounts": [
          {
-            "minimumQuantity": null,
-            "discountPercentage": null
+            "minimumQuantity":,
+            "discountPercentage":
             },
             {
-            "minimumQuantity": null,
-            "discountPercentage": null
+            "minimumQuantity":,
+            "discountPercentage":
             },
             {
-            "minimumQuantity": null,
-            "discountPercentage": null
+            "minimumQuantity":,
+            "discountPercentage":
             },
             {
-            "minimumQuantity": null,
-            "discountPercentage": null
+            "minimumQuantity":,
+            "discountPercentage":
             }
         ]
     },
