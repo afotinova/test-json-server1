@@ -1,4 +1,6 @@
 {
+  "posts": [
+{
   "discountGroupId": "T-CAT",
   "discounts": [
     {
@@ -18,4 +20,6 @@
       "discountPercentage": 0
     }
   ]
+}
+]
 }
