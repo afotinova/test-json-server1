@@ -22,24 +22,7 @@
     },
     "DiscountGroupUpdated": {
         "discountGroupId": "T-CAT",
-        "discounts": [
-         {
-            "minimumQuantity":,
-            "discountPercentage":
-            },
-            {
-            "minimumQuantity":,
-            "discountPercentage":
-            },
-            {
-            "minimumQuantity":,
-            "discountPercentage":
-            },
-            {
-            "minimumQuantity":,
-            "discountPercentage":
-            }
-        ]
+        "discounts": []
     },
     "QuoteCreated": {
         "erpQuoteNumber": "Q2307562",
